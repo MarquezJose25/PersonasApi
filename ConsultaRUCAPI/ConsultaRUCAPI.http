@@ -1,0 +1,6 @@
+@ConsultaRUCAPI_HostAddress = http://localhost:5253
+
+GET {{ConsultaRUCAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

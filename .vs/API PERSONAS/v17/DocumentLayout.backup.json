@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|c:\\users\\jaime\\documents\\proyectos_net\\api_personas\\personasapi\\consultarucapi\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|solutionrelative:consultarucapi\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|c:\\users\\jaime\\documents\\proyectos_net\\api_personas\\personasapi\\consultarucapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|solutionrelative:consultarucapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|c:\\users\\jaime\\documents\\proyectos_net\\api_personas\\personasapi\\consultarucapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|solutionrelative:consultarucapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|c:\\users\\jaime\\documents\\proyectos_net\\api_personas\\personasapi\\consultarucapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|solutionrelative:consultarucapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|c:\\users\\jaime\\documents\\proyectos_net\\api_personas\\personasapi\\consultarucapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|solutionrelative:consultarucapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|c:\\users\\jaime\\documents\\proyectos_net\\api_personas\\personasapi\\consultarucapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|solutionrelative:consultarucapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|c:\\users\\jaime\\documents\\proyectos_net\\api_personas\\personasapi\\consultarucapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|solutionrelative:consultarucapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|c:\\users\\jaime\\documents\\proyectos_net\\api_personas\\personasapi\\consultarucapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41901A16-E5BE-B359-F0B8-CBA421F954D0}|ConsultaRUCAPI\\ConsultaRUCAPI.csproj|solutionrelative:consultarucapi\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ConsultaRUCAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "ConsultaRUCAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:20:28.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsultaRUCAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ConsultaRUCAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T18:08:51.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsultaRUCAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Program.cs",
+              "RelativeToolTip": "ConsultaRUCAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T18:04:05.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "ConsultaRUCAPI\\Controllers\\ConsultaController.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "ConsultaRUCAPI\\Controllers\\ConsultaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:22:45.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ConsultaRUCAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ConsultaRUCAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:23:33.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsultaRUCAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\appsettings.json",
+              "RelativeToolTip": "ConsultaRUCAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T17:20:22.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "ConsultaRUCAPI\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Models\\Persona.cs",
+              "RelativeToolTip": "ConsultaRUCAPI\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:31:55.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConsultaRUCAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jaime\\Documents\\PROYECTOS_NET\\API_PERSONAS\\PersonasApi\\ConsultaRUCAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConsultaRUCAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T17:23:00.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
